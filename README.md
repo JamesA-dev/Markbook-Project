@@ -2,7 +2,7 @@
 
 **`Jun 9 2024`**
 
-Python Markbook Maker Project.
+Python Markbook Maker Project
 
 #
 
